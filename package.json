@@ -4,7 +4,7 @@
   "main": "./index",
   "dependencies": {},
   "devDependencies": {
-    "tap": "^16.1.0",
+    "tap": "^16.1.1",
     "ut-tools": "^6.40.2",
     "pegjs": "0.10.0"
   },
