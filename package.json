@@ -1,10 +1,10 @@
 {
   "name": "ut-plsql-lexer",
-  "version": "1.5.3",
+  "version": "1.6.0",
   "main": "./index",
   "dependencies": {},
   "devDependencies": {
-    "tap": "^16.1.1",
+    "tap": "^16.1.0",
     "ut-tools": "^6.40.2",
     "pegjs": "0.10.0"
   },
